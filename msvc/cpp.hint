@@ -1,0 +1,2 @@
+#define LIBDC1394_API __declspec(dllexport)
+#define LIBDC1394_API __declspec(dllimport)
