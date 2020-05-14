@@ -77,9 +77,6 @@
     <ClCompile Include="..\dc1394\bayer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\dc1394\windows\capture.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\dc1394\conversions.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -105,6 +102,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\dc1394\control.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\dc1394\capture.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

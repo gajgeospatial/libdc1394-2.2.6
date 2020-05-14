@@ -364,6 +364,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\dc1394\bayer.c" />
+    <ClCompile Include="..\dc1394\capture.c" />
     <ClCompile Include="..\dc1394\control.c" />
     <ClCompile Include="..\dc1394\conversions.c" />
     <ClCompile Include="..\dc1394\enumeration.c" />
@@ -373,7 +374,6 @@
     <ClCompile Include="..\dc1394\log.c" />
     <ClCompile Include="..\dc1394\register.c" />
     <ClCompile Include="..\dc1394\utils.c" />
-    <ClCompile Include="..\dc1394\windows\capture.c" />
     <ClCompile Include="dllmain.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
